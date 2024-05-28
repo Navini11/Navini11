@@ -3,17 +3,12 @@
 **University of Moratuwa**
 
 ## Interest Fields
--Internet of Things
-
--Embedded Systems
-
--Robotics
-
--Machine Learning
-
--Computer Vision
-
--PCB Designing
+- Internet of Things
+- Embedded Systems
+- Robotics
+- Machine Learning
+- Computer Vision
+- PCB Designing
 
 
 
