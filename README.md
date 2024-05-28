@@ -1,8 +1,8 @@
 ## Hi there, I am Navini Jagoda👋
-**Undergraduate of Electronics and Telecommunication Engineering
-**University of Moratuwa
+**Undergraduate of Electronics and Telecommunication Engineering**
+**University of Moratuwa**
 
-## Interest Fields
+# Interest Fields
 -Internet of Things
 -Embedded Systems
 -Robotics
