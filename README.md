@@ -1,5 +1,6 @@
 ## Hi there, I am Navini Jagoda👋
 **Undergraduate of Electronics and Telecommunication Engineering**
+
 **University of Moratuwa**
 
 ## Interest Fields
@@ -12,6 +13,7 @@
 
 ## Contact Information
 **Email**- npnjagoda11@gmail.com
+
 **Webmail**- nayantharajanp.21@uom.lk
 
 
